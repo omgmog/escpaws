@@ -1,0 +1,3 @@
+bleak
+numpy
+# catprinter has no setup.py - install.sh clones it directly from https://github.com/rbaron/catprinter
